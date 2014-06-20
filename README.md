@@ -1,4 +1,4 @@
-# agnoster.zsh-theme
+## mytheme.zsh-theme
 
 A ZSH theme optimized for people who use:
 
@@ -17,14 +17,3 @@ To test if your terminal and font support it, check that all the necessary chara
 if you want, add in your .zshrc : DEFAULT_USER="username"
 
 ![Character Example](http://cl.ly/content/image/2l3w443z363P/aHR0cDovL2YuY2wubHkvaXRlbXMvM2ozTjJpMDMzTzJNM0ozcDFjMjgvU2NyZWVuJTIwU2hvdCUyMDIwMTItMDktMTQlMjBhdCUyMDEyLjA2LjAyJTIwLnBuZw==)
-
-## What does it show?
-
-- If the previous command failed (✘)
-- User @ Hostname (if user is not DEFAULT_USER, which can then be set in your profile)
-- Git status
-  - Branch (⭠) or detached head (➦)
-  - Current branch / SHA1 in detached head state
-  - Dirty working directory (±, color change)
-- Working directory
-- Elevated (root) privileges (⚡)
